@@ -1,4 +1,4 @@
-# InnovateIQ Tech
+# InnovateIQ Tech 
 This landing webpage serves as the digital storefront for InnovateIQ Tech, providing an overview of the company's services, expertise, and values. It aims to attract potential clients and partners by highlighting the company's unique offerings and capabilities in the field of web development and many more.
 
 ## Features
@@ -14,3 +14,6 @@ This landing webpage serves as the digital storefront for InnovateIQ Tech, provi
   
 ## Screenshot
 ![Screenshot](https://github.com/DotSahilR/BYTEUPRISE_WD_02/blob/main/output.png)
+
+## Live Demo
+[Click here to visit the live site](https://dotsahilr.github.io/InnovateIQ_Tech/)
