@@ -11,8 +11,8 @@ This landing webpage serves as the digital storefront for InnovateIQ Tech, provi
 - CSS
 - JavaScript
 - Bootstrap
-  
+
+[Live Demo](https://dotsahilr.github.io/InnovateIQ_Tech/)
+
 ## Screenshot
 ![Screenshot](https://github.com/DotSahilR/BYTEUPRISE_WD_02/blob/main/output.png)
-
-[##Live Demo](https://dotsahilr.github.io/InnovateIQ_Tech/)
